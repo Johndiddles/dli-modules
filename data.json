@@ -1,0 +1,51 @@
+﻿[
+    {
+        "id": "1",
+        "course_code": "CIL 306",
+        "name": "Company Law",
+        "level": "300 Level",
+        "url": "https://drive.google.com/file/d/1yqR4xPETuK9uH0ayYwQn2X853tYGnrIY/view?usp=sharing"
+    },
+    {
+        "id": "2",
+        "course_code": "FIN 310",
+        "name": "Business Finance",
+        "level": "300 Level",
+        "url": "https://drive.google.com/file/d/1fjR9aJLaUYvXQuCHizWqsULzV9NrHFRM/view?usp=sharing"
+    },
+    {
+        "id": "3",
+        "course_code": "FBA 310",
+        "name": "Statistics II",
+        "level": "300 Level",
+        "url": "https://drive.google.com/file/d/1Z7OiPXN4RNzVoK0zjaplDQlS_2gAnvqN/view?usp=sharing"
+    },
+    {
+        "id": "4",
+        "course_code": "ACC 310",
+        "name": "Cost Accounting",
+        "level": "300 Level",
+        "url": "https://drive.google.com/file/d/1xlt4vxaLfT1XMKYbspZvVWeiemmQQ-pU/view?usp=sharing"
+    },
+    {
+        "id": "5",
+        "course_code": "ACC 311",
+        "name": "Financial Accounting",
+        "level": "300 Level",
+        "url": "https://drive.google.com/file/d/1vNecYmy4SsKWmubrFksQ-rfR_lzcYtyu/view?usp=sharing"
+    },
+    {
+        "id": "6",
+        "course_code": "CSC 207",
+        "name": "Information Processing",
+        "level": "300 Level",
+        "url": "https://drive.google.com/file/d/1lrOOW-C1BhAIEQQGbaMzOAzNCjc_du76/view?usp=sharing"
+    },
+    {
+        "id": "7",
+        "course_code": "ACC 321",
+        "name": "Accounting Theory And Conceptual Frameworks",
+        "level": "300 Level",
+        "url": "https://drive.google.com/file/d/1eta8Q6mrf-sgEC1aFGKpOveOr0isjK1N/view?usp=sharing"
+    }
+]
