@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/johndiddles/dli-modules/static/css/main.1a215eec.chunk.css",
-    "main.js": "/johndiddles/dli-modules/static/js/main.66ceeb4e.chunk.js",
-    "main.js.map": "/johndiddles/dli-modules/static/js/main.66ceeb4e.chunk.js.map",
-    "runtime-main.js": "/johndiddles/dli-modules/static/js/runtime-main.eea4c771.js",
-    "runtime-main.js.map": "/johndiddles/dli-modules/static/js/runtime-main.eea4c771.js.map",
-    "static/js/2.55b1fcf9.chunk.js": "/johndiddles/dli-modules/static/js/2.55b1fcf9.chunk.js",
-    "static/js/2.55b1fcf9.chunk.js.map": "/johndiddles/dli-modules/static/js/2.55b1fcf9.chunk.js.map",
-    "static/js/3.f44561b5.chunk.js": "/johndiddles/dli-modules/static/js/3.f44561b5.chunk.js",
-    "static/js/3.f44561b5.chunk.js.map": "/johndiddles/dli-modules/static/js/3.f44561b5.chunk.js.map",
-    "index.html": "/johndiddles/dli-modules/index.html",
-    "static/css/main.1a215eec.chunk.css.map": "/johndiddles/dli-modules/static/css/main.1a215eec.chunk.css.map",
-    "static/js/2.55b1fcf9.chunk.js.LICENSE.txt": "/johndiddles/dli-modules/static/js/2.55b1fcf9.chunk.js.LICENSE.txt",
-    "static/media/logo.9687405e.png": "/johndiddles/dli-modules/static/media/logo.9687405e.png"
+    "main.css": "/dli-modules/static/css/main.1a215eec.chunk.css",
+    "main.js": "/dli-modules/static/js/main.66ceeb4e.chunk.js",
+    "main.js.map": "/dli-modules/static/js/main.66ceeb4e.chunk.js.map",
+    "runtime-main.js": "/dli-modules/static/js/runtime-main.37b2dc44.js",
+    "runtime-main.js.map": "/dli-modules/static/js/runtime-main.37b2dc44.js.map",
+    "static/js/2.55b1fcf9.chunk.js": "/dli-modules/static/js/2.55b1fcf9.chunk.js",
+    "static/js/2.55b1fcf9.chunk.js.map": "/dli-modules/static/js/2.55b1fcf9.chunk.js.map",
+    "static/js/3.f44561b5.chunk.js": "/dli-modules/static/js/3.f44561b5.chunk.js",
+    "static/js/3.f44561b5.chunk.js.map": "/dli-modules/static/js/3.f44561b5.chunk.js.map",
+    "index.html": "/dli-modules/index.html",
+    "static/css/main.1a215eec.chunk.css.map": "/dli-modules/static/css/main.1a215eec.chunk.css.map",
+    "static/js/2.55b1fcf9.chunk.js.LICENSE.txt": "/dli-modules/static/js/2.55b1fcf9.chunk.js.LICENSE.txt",
+    "static/media/logo.9687405e.png": "/dli-modules/static/media/logo.9687405e.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.eea4c771.js",
+    "static/js/runtime-main.37b2dc44.js",
     "static/js/2.55b1fcf9.chunk.js",
     "static/css/main.1a215eec.chunk.css",
     "static/js/main.66ceeb4e.chunk.js"
