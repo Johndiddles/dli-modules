@@ -4,21 +4,18 @@
     flex: 50px;
     flex-wrap: wrap;
     justify-content: space-around;
-    margin: 80px;
-
-    
+    margin: 80px;  
 }
 
 .module-cards {
-    margin: 20px;
+    margin: 10px;
     width: 180px;
     overflow: hidden;
     align-items: center;
     display: flex;
     flex-direction: column;
     color: black;
-    border-bottom-left-radius: 10px;
-    border-bottom-right-radius: 10px;
+    text-align: center;
 
     img {
         width: 120px;
@@ -37,5 +34,14 @@
         border: 1px solid black;
         border-radius: 10px;
         background: rgb(31,31,31)
+    }
+}
+
+@media screen and (max-width: 900px){
+    .modules {
+        margin: 80px 40px;
+    }
+    .module-cards {
+        margin: 5px;
     }
 }
