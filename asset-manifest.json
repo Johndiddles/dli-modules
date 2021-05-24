@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/dli-modules/static/css/main.207d9276.chunk.css",
-    "main.js": "/dli-modules/static/js/main.3afef696.chunk.js",
-    "main.js.map": "/dli-modules/static/js/main.3afef696.chunk.js.map",
+    "main.css": "/dli-modules/static/css/main.3192bcb1.chunk.css",
+    "main.js": "/dli-modules/static/js/main.7fcf2fdf.chunk.js",
+    "main.js.map": "/dli-modules/static/js/main.7fcf2fdf.chunk.js.map",
     "runtime-main.js": "/dli-modules/static/js/runtime-main.de6406ea.js",
     "runtime-main.js.map": "/dli-modules/static/js/runtime-main.de6406ea.js.map",
     "static/js/2.55b1fcf9.chunk.js": "/dli-modules/static/js/2.55b1fcf9.chunk.js",
@@ -10,14 +10,14 @@
     "static/js/3.16f89d50.chunk.js": "/dli-modules/static/js/3.16f89d50.chunk.js",
     "static/js/3.16f89d50.chunk.js.map": "/dli-modules/static/js/3.16f89d50.chunk.js.map",
     "index.html": "/dli-modules/index.html",
-    "static/css/main.207d9276.chunk.css.map": "/dli-modules/static/css/main.207d9276.chunk.css.map",
+    "static/css/main.3192bcb1.chunk.css.map": "/dli-modules/static/css/main.3192bcb1.chunk.css.map",
     "static/js/2.55b1fcf9.chunk.js.LICENSE.txt": "/dli-modules/static/js/2.55b1fcf9.chunk.js.LICENSE.txt",
     "static/media/logo.9687405e.png": "/dli-modules/static/media/logo.9687405e.png"
   },
   "entrypoints": [
     "static/js/runtime-main.de6406ea.js",
     "static/js/2.55b1fcf9.chunk.js",
-    "static/css/main.207d9276.chunk.css",
-    "static/js/main.3afef696.chunk.js"
+    "static/css/main.3192bcb1.chunk.css",
+    "static/js/main.7fcf2fdf.chunk.js"
   ]
 }
