@@ -9,7 +9,7 @@
     position: fixed;
     width: 100%;
     margin-top: -10px;
-    padding-bottom: 5px;
+    z-index: 1;
 }
 
 .header-name {
@@ -37,11 +37,10 @@
 }
 
 nav {
-    height: 100%;
     width: 30%;
-    padding: 20px 50px;
+    padding: 30px 50px;
     background:rgb(31, 31, 31);
-    border-bottom-left-radius: 30px;
+    border-bottom-left-radius: 80px;
     align-items: center;
     display: flex;
     flex-direction: row;
