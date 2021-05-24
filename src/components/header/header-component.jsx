@@ -12,7 +12,7 @@ function Header(){
                 <img className='logo' src={logo} alt="logo" />
             </div>
             <div className='header-name'>
-                Eazy DLI 
+                Eazy Learning 
                 <span>Find your modules easily!!!</span>
             </div>
             <nav>
