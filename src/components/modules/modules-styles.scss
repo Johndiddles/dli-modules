@@ -45,3 +45,13 @@
         margin: 5px;
     }
 }
+
+@media screen and (max-width: 460px){
+    .modules {
+        margin: 80px 10px;
+    }
+    .module-cards {
+        margin: 5px;
+        width: 140px;
+    }
+}
